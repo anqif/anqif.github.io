@@ -1,0 +1,57 @@
+= Anqi Fu
+
+~~~
+{}{img_left}{profile.jpg}{Anqi Fu}{}{}{}
+Anqi Fu\n
+[http://ee.stanford.edu Department of Electrical Engineering]\n
+[http://www.stanford.edu Stanford University]
+
+Adviser: [http://www.stanford.edu/~boyd Stephen Boyd]\n
+[CV.pdf Curriculum Vitae]
+
+[https://www.linkedin.com/in/anqi-fu-2bb03013/ LinkedIn] | [https://scholar.google.com/citations?user=TlBuCg8AAAAJ&hl=en Google Scholar] | [https://github.com/anqif Github]
+~~~
+
+== Contact
+anqif \[at\] alumni (dot) stanford (dot) edu
+
+[https://campus-map.stanford.edu/index.cfm?ID=04-030 Packard Building] Room 243\n
+350 Jane Stanford Way\n
+Stanford, CA 94305\n
+
+== Research Interests
+- Large-scale optimization
+- Machine learning
+- Radiation treatment planning
+
+== Working Papers
+- A. Fu, L. Xing, S. Boyd. "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints." Submitted, May 2021.
+
+== Publications
+- A. Fu, J. Zhang, S. Boyd. [papers/a2dr.pdf "Anderson Accelerated Douglas-Rachford Splitting."] /SIAM Journal on Scientific Computing/, vol. 42 (6): A3560–A3583, November 2020. ([papers/supplements/a2dr_supplement.pdf Supplemental Materials])
+- A. Fu, B. Narasimhan, S. Boyd. [papers/cvxr.pdf "CVXR: An R Package for Disciplined Convex Optimization."] /Journal of Statistical Software/, vol. 94 (14): 1-34, August 2020.
+- A. Fu, B. Ungun, L. Xing, S. Boyd. [papers/conrad.pdf "A Convex Optimization Approach to Radiation Treatment Planning with Dose Constraints."] /Optimization and Engineering/, vol. 20 (1): 277-300, March 2019.
+- O.J. Glembocki, R.W. Rendell, D.A. Alexson, S.M. Prokes, A. Fu, M.A. Mastro. [papers/physics/PhysRevB.80.085416 "Dielectric-Substrate-Induced Surface-Enhanced Raman Scattering."] /Physical Review B/, vol. 80 (8): 085416, August 2009.
+- R.D. Shull, V. Provenzano, A.J. Shapiro, A. Fu, M.W. Lufaso, J. Karapetrova, G. Kletetschka, V. Mikula. [papers/physics/JApplPhys.99.08K908 "The Effect of Small Metal Additions (Co, Cu, Ga, Mn, Al, Bi, Sn) on the Magnetocaloric Properties of the Gd5Ge2Si2 Alloy."] /Journal of Applied Physics/, vol. 99 (8): 08K908, April 2006.
+- J.L. Her, K. Koyama, K. Watanabe, V. Provenzano, A. Fu, A.J. Shapiro, R.D. Shull. [papers/physics/MaterTrans.46.2011 "High-Magnetic Field X-ray Diffraction Studies on Gd5(Ge2-xFex)Si2 (x = 0.05 and 0.2)."] /Materials Transactions/, vol. 46 (9): 2011-2014, September 2005.
+
+== Presentations
+- Optimization for Machine Learning, CIRM 2020, "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/CIRM_ML20_conference.pdf Slides])
+- useR! 2019, "CVXR: An R Package for Disciplined Convex Optimization." ([https://github.com/bnaras/cvxr_tutorial Tutorial Book])
+- useR! 2018, "Disciplined Convex Optimization with CVXR." ([presentations/useR18_conference.pdf Slides]) ([https://www.youtube.com/watch?v=MyglbtnmQ8A Video])
+- useR! 2016, "CVXR: An R Package for Modeling Convex Optimization Problems." ([presentations/useR16_conference.pdf Slides]) ([http://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/CVXR-An-R-Package-for-Modeling-Convex-Optimization-Problems Video])
+- H2O World 2015, "Generalized Low Rank Models." ([https://github.com/h2oai/h2o-tutorials/tree/h2o-world-2015-training/tutorials/glrm Code])
+
+== Software
+- [https://github.com/anqif/adarad AdaRad], a Python library for adaptive radiation treatment planning over time.
+- [https://github.com/cvxgrp/a2dr A2DR], a Python solver using Anderson accelerated Douglas-Rachford splitting. ([https://pypi.org/project/a2dr PyPi])
+- [http://cvxr.rbind.io CVXR], an R package for modeling convex optimization problems. ([https://CRAN.R-project.org/package=CVXR CRAN])
+- [https://github.com/bungun/conrad ConRad], a Python library for radiation treatment planning with dose-volume constraints.
+- [http://www.h2o.ai H2O], a Java-based distributed statistical analysis software. I was the primary developer on GLRM (generalized low rank models) and the H2O R package. ([https://CRAN.R-project.org/package=h2o CRAN])
+
+== Education
+- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University], 2021
+- M.S., Statistics, [http://www.stanford.edu Stanford University], 2014
+- M.A., Business Research, [http://www.gsb.stanford.edu Stanford Graduate School of Business], 2012
+- B.S., Electrical Engineering, [http://www.umd.edu University of Maryland, College Park], 2009
+- B.A., Economics, [http://www.umd.edu University of Maryland, College Park], 2009
