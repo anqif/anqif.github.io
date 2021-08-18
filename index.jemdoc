@@ -3,21 +3,18 @@
 ~~~
 {}{img_left}{profile.jpg}{Anqi Fu}{}{}{}
 Anqi Fu\n
-[http://ee.stanford.edu Department of Electrical Engineering]\n
-[http://www.stanford.edu Stanford University]
+Postdoctoral Research Scholar\n
+[http://www.mskcc.org/research-areas/labs/joseph-deasy Department of Medical Physics]\n
+[http://www.mskcc.org/ Memorial Sloan-Kettering Cancer Center]\n
 
-Adviser: [http://www.stanford.edu/~boyd Stephen Boyd]\n
-[CV.pdf Curriculum Vitae]
-
-[https://www.linkedin.com/in/anqi-fu-2bb03013/ LinkedIn] | [https://scholar.google.com/citations?user=TlBuCg8AAAAJ&hl=en Google Scholar] | [https://github.com/anqif Github]
+[CV.pdf Curriculum Vitae] | [https://www.linkedin.com/in/anqi-fu-2bb03013/ LinkedIn] | [https://scholar.google.com/citations?user=TlBuCg8AAAAJ&hl=en Google Scholar] | [https://github.com/anqif Github]
 ~~~
 
 == Contact
 anqif \[at\] alumni (dot) stanford (dot) edu
 
-[https://campus-map.stanford.edu/index.cfm?ID=04-030 Packard Building] Room 243\n
-350 Jane Stanford Way\n
-Stanford, CA 94305\n
+475 Main Street \#10A\n
+New York, NY 10044\n
 
 == Research Interests
 - Large-scale optimization
@@ -36,6 +33,7 @@ Stanford, CA 94305\n
 - J.L. Her, K. Koyama, K. Watanabe, V. Provenzano, A. Fu, A.J. Shapiro, R.D. Shull. [papers/physics/MaterTrans.46.2011 "High-Magnetic Field X-ray Diffraction Studies on Gd5(Ge2-xFex)Si2 (x = 0.05 and 0.2)."] /Materials Transactions/, vol. 46 (9): 2011-2014, September 2005.
 
 == Presentations
+- ECSSC 2021, Invited Workshop, "Convex Optimization for Statistical and Machine Learning with CVXR." ([https://github.com/bnaras/cvxr_tutorial/tree/ecssc2021 Tutorial Book])
 - Optimization for Machine Learning, CIRM 2020, "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/CIRM_ML20_conference.pdf Slides])
 - useR! 2019, "CVXR: An R Package for Disciplined Convex Optimization." ([https://github.com/bnaras/cvxr_tutorial Tutorial Book])
 - useR! 2018, "Disciplined Convex Optimization with CVXR." ([presentations/useR18_conference.pdf Slides]) ([https://www.youtube.com/watch?v=MyglbtnmQ8A Video])
