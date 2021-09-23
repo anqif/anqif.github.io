@@ -11,13 +11,21 @@ Postdoctoral Research Scholar\n
 ~~~
 
 == About Me
-I completed my Ph.D in Electrical Engineering at Stanford University with Profs. Stephen P. Boyd and Lei Xing. In September 2021, I will join Memorial Sloan-Kettering Cancer Center as a postdoc in the medical physics group led by Dr. Joseph O. Deasy. Prior to my research career, I was a machine learning scientist at [http://www.h2o.ai/ H2O.ai], developing algorithms and software for large-scale statistical learning applications.
+I completed my Ph.D in Electrical Engineering at Stanford University with Profs. Stephen P. Boyd and Lei Xing. Currently, I am a postdoc at Memorial Sloan-Kettering Cancer Center in the medical physics group led by Dr. Joseph O. Deasy. Prior to my academic career, I worked as a machine learning scientist at [http://www.h2o.ai/ H2O.ai], developing algorithms and software for large-scale statistical learning applications.
 
 == Contact
 anqif \[at\] alumni (dot) stanford (dot) edu
 
-475 Main Street \#10A\n
-New York, NY 10044\n
+Memorial Sloan-Kettering Cancer Center\n
+321 East 61st Street\n
+New York, NY 10065\n
+
+== Education
+- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University], 2021
+- M.S., Statistics, [http://www.stanford.edu Stanford University], 2014
+- M.A., Business Research, [http://www.gsb.stanford.edu Stanford Graduate School of Business], 2012
+- B.S., Electrical Engineering, [http://www.umd.edu University of Maryland, College Park], 2009
+- B.A., Economics, [http://www.umd.edu University of Maryland, College Park], 2009
 
 == Research Interests
 - Large-scale optimization
@@ -25,9 +33,10 @@ New York, NY 10044\n
 - Radiation treatment planning
 
 == Working Papers
-- A. Fu, L. Xing, S. Boyd. "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints." Submitted, May 2021.
+- A. Fu, L. Xing, S. Boyd. "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints." /INFORMS Journal on Computing/. Submitted, May 2021.
 
 == Publications
+- A. Fu, S. Boyd, L. Xing, B. Narasimhan, J. Duchi. [http://purl.stanford.edu/yk503fd5318 "Convex Optimization Methods for Adaptive Radiation Therapy".] Ph.D thesis, Stanford University, June 2021.
 - A. Fu, J. Zhang, S. Boyd. [papers/a2dr.pdf "Anderson Accelerated Douglas-Rachford Splitting."] /SIAM Journal on Scientific Computing/, vol. 42 (6): A3560–A3583, November 2020. ([papers/supplements/a2dr_supplement.pdf Supplemental Materials])
 - A. Fu, B. Narasimhan, S. Boyd. [papers/cvxr.pdf "CVXR: An R Package for Disciplined Convex Optimization."] /Journal of Statistical Software/, vol. 94 (14): 1-34, August 2020.
 - A. Fu, B. Ungun, L. Xing, S. Boyd. [papers/conrad.pdf "A Convex Optimization Approach to Radiation Treatment Planning with Dose Constraints."] /Optimization and Engineering/, vol. 20 (1): 277-300, March 2019.
@@ -37,6 +46,7 @@ New York, NY 10044\n
 
 == Presentations
 - ECSSC 2021, Invited Workshop, "Convex Optimization for Statistical and Machine Learning with CVXR." ([https://github.com/bnaras/cvxr_tutorial/tree/ecssc2021 Tutorial Book])
+- EURO 2021 (Athens), "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/EURO21_conference.pdf Slides])
 - Optimization for Machine Learning, CIRM 2020, "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/CIRM_ML20_conference.pdf Slides])
 - useR! 2019, "CVXR: An R Package for Disciplined Convex Optimization." ([https://github.com/bnaras/cvxr_tutorial Tutorial Book])
 - useR! 2018, "Disciplined Convex Optimization with CVXR." ([presentations/useR18_conference.pdf Slides]) ([https://www.youtube.com/watch?v=MyglbtnmQ8A Video])
@@ -44,15 +54,11 @@ New York, NY 10044\n
 - H2O World 2015, "Generalized Low Rank Models." ([https://github.com/h2oai/h2o-tutorials/tree/h2o-world-2015-training/tutorials/glrm Code])
 
 == Software
-- [https://github.com/anqif/adarad AdaRad], a Python library for adaptive radiation treatment planning over time.
+=== General Optimization
 - [https://github.com/cvxgrp/a2dr A2DR], a Python solver using Anderson accelerated Douglas-Rachford splitting. ([https://pypi.org/project/a2dr PyPi])
 - [http://cvxr.rbind.io CVXR], an R package for modeling convex optimization problems. ([https://CRAN.R-project.org/package=CVXR CRAN])
-- [https://github.com/bungun/conrad ConRad], a Python library for radiation treatment planning with dose-volume constraints.
 - [http://www.h2o.ai H2O], a Java-based distributed statistical analysis software. I was the primary developer on GLRM (generalized low rank models) and the H2O R package. ([https://CRAN.R-project.org/package=h2o CRAN])
 
-== Education
-- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University], 2021
-- M.S., Statistics, [http://www.stanford.edu Stanford University], 2014
-- M.A., Business Research, [http://www.gsb.stanford.edu Stanford Graduate School of Business], 2012
-- B.S., Electrical Engineering, [http://www.umd.edu University of Maryland, College Park], 2009
-- B.A., Economics, [http://www.umd.edu University of Maryland, College Park], 2009
+=== Biomedical Applications
+- [https://github.com/anqif/adarad AdaRad], a Python library for adaptive radiation treatment planning over time.
+- [https://github.com/bungun/conrad ConRad], a Python library for radiation treatment planning with dose-volume constraints.
