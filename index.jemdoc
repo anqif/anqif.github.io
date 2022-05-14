@@ -33,7 +33,7 @@ New York, NY 10065\n
 - Radiation treatment planning
 
 == Working Papers
-- A. Fu, L. Xing, S. Boyd. "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."
+- A. Fu, L. Xing, S. Boyd. [papers/adarad.pdf "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."] /Optimization Methods and Software/. Accepted, May 2022.
 
 == Publications
 - A. Fu, S. Boyd, L. Xing, B. Narasimhan, J. Duchi. [http://purl.stanford.edu/yk503fd5318 "Convex Optimization Methods for Adaptive Radiation Therapy".] Ph.D thesis, Stanford University, June 2021.
