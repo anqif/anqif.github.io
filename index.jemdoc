@@ -33,9 +33,10 @@ New York, NY 10065\n
 - Radiation treatment planning
 
 == Working Papers
-- A. Fu, L. Xing, S. Boyd. [papers/adarad.pdf "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."] /Optimization Methods and Software/. Accepted, May 2022.
+- A. Fu, V. T. Taasti, M. Zarepisheh. "Distributed and Scalable Optimization for Robust Proton Treatment Planning." /Medical Physics/. Submitted, May 2022.
 
 == Publications
+- A. Fu, L. Xing, S. Boyd. [papers/adarad.pdf "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."] /Optimization Methods and Software/, June 2022, [https://doi.org/10.1080/10556788.2022.2078824 doi: 10.1080/10556788.2022.2078824].
 - A. Fu, S. Boyd, L. Xing, B. Narasimhan, J. Duchi. [http://purl.stanford.edu/yk503fd5318 "Convex Optimization Methods for Adaptive Radiation Therapy".] Ph.D thesis, Stanford University, June 2021.
 - A. Fu, J. Zhang, S. Boyd. [papers/a2dr.pdf "Anderson Accelerated Douglas-Rachford Splitting."] /SIAM Journal on Scientific Computing/, vol. 42 (6): A3560–A3583, November 2020. ([papers/supplements/a2dr_supplement.pdf Supplemental Materials])
 - A. Fu, B. Narasimhan, S. Boyd. [papers/cvxr.pdf "CVXR: An R Package for Disciplined Convex Optimization."] /Journal of Statistical Software/, vol. 94 (14): 1-34, August 2020.
