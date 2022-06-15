@@ -33,7 +33,7 @@ New York, NY 10065\n
 - Radiation treatment planning
 
 == Working Papers
-- A. Fu, V. T. Taasti, M. Zarepisheh. "Distributed and Scalable Optimization for Robust Proton Treatment Planning." /Medical Physics/. Submitted, May 2022.
+- A. Fu, V.T. Taasti, M. Zarepisheh. "Distributed and Scalable Optimization for Robust Proton Treatment Planning." /Medical Physics/. Submitted, May 2022.
 
 == Publications
 - A. Fu, L. Xing, S. Boyd. [papers/adarad.pdf "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."] /Optimization Methods and Software/, June 2022, [https://doi.org/10.1080/10556788.2022.2078824 doi: 10.1080/10556788.2022.2078824].
