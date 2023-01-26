@@ -4,9 +4,9 @@
     - name: Full Name
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st July 1987
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
