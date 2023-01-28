@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anqif
+  - cvxgrp
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - anqif/adarad
+  - cvxgrp/a2dr
+  - cvxgrp/CVXR
+  - bnaras/cvxr_tutorial
+  - bungun/conrad
