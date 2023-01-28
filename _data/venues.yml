@@ -1,5 +1,16 @@
+"AAPM":
+  url: https://www.aapm.org
+
+"EURO":
+  url: https://www.euro-online.org
+  color: "#00369f"
+
 "IJOC":
   url: https://pubsonline.informs.org/journal/ijoc
+  color: "#00369f"
+
+"INFORMS":
+  url: https://www.informs.org
   color: "#00369f"
 
 "JAP":
@@ -10,7 +21,7 @@
   url: https://www.jstatsoft.org
   color: "#00369f"
 
-MaterTrans:
+"MaterTrans":
   url: https://www.jstage.jst.go.jp/browse/matertrans
   color: "#c3000"
 
@@ -41,4 +52,8 @@ MaterTrans:
 
 "SISC":
   url: https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc
+  color: "#00369f"
+
+"useR":
+  url: https://www.r-project.org/conferences
   color: "#00369f"
