@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /vitae/
+title: vitae
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 6
+cv_pdf: anqif_CV.pdf
 ---
