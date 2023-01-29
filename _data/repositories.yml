@@ -1,10 +1,8 @@
 github_users:
   - anqif
-  - cvxgrp
 
 github_repos:
   - anqif/adarad
   - cvxgrp/a2dr
   - cvxgrp/CVXR
-  - bnaras/cvxr_tutorial
   - bungun/conrad
