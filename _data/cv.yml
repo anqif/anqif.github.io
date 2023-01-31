@@ -59,7 +59,7 @@
   contents:
     - title: <a href="https://github.com/cvxgrp/a2dr">A2DR</a>
       year: 2020
-      description: Python solver for distributed optimization using Anderson accerelerated Douglas-Rachford splitting.
+      description: Python solver for distributed optimization using Anderson accelerated Douglas-Rachford splitting.
     - title: <a href="https://cvxr.rbind.io">CVXR</a>
       year: 2020
       description: R package for disciplined convex modeling and optimization.
