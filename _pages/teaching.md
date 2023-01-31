@@ -16,8 +16,8 @@ nav_order: 5
         <h5 class="font-weight-bold">Convex Optimization I</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <!-- <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle"> -->
-		<span class="badge">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+		<!-- <span class="badge"> -->
             EE364A
         </span>
       </div>
@@ -37,8 +37,8 @@ nav_order: 5
         <h5 class="font-weight-bold">Convex Optimization I</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <!-- <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle"> -->
-		<span class="badge">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+		<!-- <span class="badge"> -->
             EE364A
         </span>
       </div>
@@ -82,8 +82,8 @@ nav_order: 5
         <h5 class="font-weight-bold">Programming Concepts for Engineers</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <!-- <span class="badge font-weight-bold primary-color-dark text-uppercase align-middle"> -->
-		<span class="badge">
+        <span class="badge font-weight-bold primary-color-dark text-uppercase align-middle">
+		<!-- <span class="badge"> -->
             ENEE114
         </span>
       </div>
