@@ -22,3 +22,6 @@ group :other_plugins do
     gem 'feedjira'
 #	gem 'wdm', '~> 0.1.0'
 end
+
+# Note: For local testing, comment out the line "gem 'mini_racer'" and uncomment the line "gem 'wdm', '~> 0.1.0'"
+# Change this back before pushing to Git or build will fail.
