@@ -87,14 +87,14 @@
         - Maryland Distinguished Scholarship
         - Intel Science Talent Search Semifinalist
     - year: 2004
-      items: 
+      items:
         - Siemens Westinghouse Science Competition Semifinalist
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Cancer Therapy
-      items: 
+      items:
         - Radiation Treatment Planning.
         - Adaptive Radiation Therapy.
         - Computational Oncology.
