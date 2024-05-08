@@ -18,6 +18,10 @@
   - firstname: ["Andrew", "A."]
     url: https://www.mskcc.org/research-areas/labs/andrew-jackson
 
+"Mair":
+  - firstname: {"Sebastian", "S."]
+    url: https://smair.github.io
+
 "Narasimhan":
   - firstname: ["Balasubramanian", "B."]
     url: https://naras.su.domains
@@ -29,6 +33,10 @@
 "Shull":
   - firstname: ["Robert", "Robert D.", "R.", "R. D."]
     url: https://www.nist.gov/people/robert-d-shull
+
+"Sjölund":
+  - firstname: ["Jens", "J."]
+    url: https://jsjol.github.io
 
 "Taasti":
   - firstname: ["Vicki", "Vicki T.", "V.", "V. T.", "Vicki Trier"]

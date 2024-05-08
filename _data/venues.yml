@@ -1,6 +1,10 @@
 "AAPM":
   url: https://www.aapm.org
 
+"arXiv":
+  url: https://arxiv.org
+  color: "#b30000"
+
 "EURO":
   url: https://www.euro-online.org
   color: "#00369f"
