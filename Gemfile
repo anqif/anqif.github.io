@@ -24,11 +24,8 @@ end
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
-<<<<<<< HEAD
+	gem 'httparty'
 #	gem 'wdm', '~> 0.1.0'
-=======
-    gem 'httparty'
->>>>>>> upstream/master
 end
 
 # Note: For local testing, comment out the line "gem 'mini_racer'" and uncomment the line "gem 'wdm', '~> 0.1.0'"
