@@ -27,7 +27,7 @@ module ExternalPosts
           #   doc.data['date'] = e.published;
           #   doc.data['redirect'] = e.url;
           #   site.collections['posts'].docs << doc
-          end
+          # end
         end
       end
     end
