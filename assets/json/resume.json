@@ -1,203 +1,187 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Anqi Fu",
+    "citizenship": "United States",
+    "email": "anqif@alumni.stanford.edu",
+	"url": "https://anqif.github.io"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "institution": "Stanford University, Stanford, CA",
+      "area": "Information Systems Laboratory",
+      "studyType": "Ph.D in Electrical Engineering",
+      "startDate": "2016",
+      "endDate": "2021",
+	  "courses": ["Dissertation titled 'Convex Optimization Methods for Adaptive Radiation Therapy'.", "Committee members were Stephen Boyd (Ph.D adviser), Lei Xing, Balasubramanian Narasimhan, and John Duchi."]
+    },
+	{
+	  "institution": "Stanford University, Stanford, CA",
+	  "studyType": "M.S. in Statistics",
+	  "startDate": "2012",
+	  "endDate": "2014"
+	},
+	{
+	  "institution": "Stanford Graduate School of Business, Stanford, CA",
+	  "area": "Economic Analysis and Policy",
+	  "studyType": "M.A. in Business Research",
+	  "startDate": "2009",
+	  "endDate": "2012"
+	},
+	{
+	  "institution": "University of Maryland, College Park, MD",
+	  "studyType": "B.S. in Electrical Engineering",
+	  "startDate": "2005",
+	  "endDate": "2009"
+	},
+	{
+	  "institution": "University of Maryland, College Park, MD",
+	  "studyType": "B.A. in Economics (Minor in Mathematics)",
+	  "startDate": "2005",
+	  "endDate": "2009"
+	}
+  ],
+  "work": [
+    {
+      "name": "Memorial Sloan Kettering, Department of Medical Physics",
+      "position": "Assistant Attending (Faculty)",
+      "url": "https://www.mskcc.org/profile/anqi-fu",
+      "startDate": "2022",
+	  "summary": "My research addresses problems in radiation treatment planning and radiobiological modeling using the tools of optimization. I design, develop, and implement efficient algorithms for large-scale, distributed optimization and machine learning with applications to IMRT, IMPT, VMAT, and other treatment modalities. I also create software/solvers for general convex programming and analysis."
+    },
+	{
+	  "name": "Memorial Sloan Kettering, Department of Medical Physics",
+	  "position": "Postdoctoral Research Scholar",
+	  "url": "https://www.mskcc.org/departments/medical-physics"
+	  "startDate": "2021",
+	  "endDate": "2022",
+	  "summary": "Advised by Masoud Zarepisheh in the Department of Medical Physics. I conducted research on proton treatment planning and distributed optimization."
+	},
+	{
+	  "name": "Stanford School of Medicine",
+	  "position": "Life Science Research Professional",
+	  "url": "https://med.stanford.edu/xinglab.html",
+	  "startDate": "2016",
+	  "endDate": "2016",
+	  "summary": "Member of Lei Xing's lab in the Department of Radiation Oncology."
+	},
+	{
+	  "name": "H2O.ai, Mountain View, CA",
+	  "position": "Machine Learning Scientist",
+	  "url": "https://h2o.ai",
+	  "startDate": "2014",
+	  "endDate": "2016"
+	},
+	{
+	  "name": "Naval Research Laboratory (NRL), Power Electronics Branch",
+	  "position": "Engineering Technician",
+	  "url": "https://www.nrl.navy.mil",
+	  "startDate": "2008",
+	  "endDate": "2008"
+	}
+  ],
+  "projects": [
+  	{
+	  "name": "AdaRad",
+	  "summary": "Python library for adaptive radiation therapy with nonlinear dynamics.",
+	  "startDate": "2020",
+	  "endDate": "2022",
+	  "url": "https://github.com/anqif/adarad"
+	},
+	{
+	  "name": "CVXR",
+	  "summary": "R package for disciplined convex modeling and optimization.",
+	  "startDate": "2015",
+	  "url": "https://cvxr.rbind.io"
+	},
+    {
+      "name": "A2DR",
+      "summary": "Python solver for distributed optimization using Anderson accelerated Douglas-Rachford splitting.",
+      "startDate": "2018",
+	  "endDate": "2020",
+      "url": "https://github.com/cvxgrp/a2dr"
+    },
+	{
+	  "name": "ConRad",
+	  "summary": "Python library for radiation treatment planning with dose-volume constraints.",
+	  "startDate": "2016",
+	  "endDate": "2019",
+	  "url": "https://github.com/bungun/conrad"
+	}
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Chambers Statistical Software Award, Honorable Mention",
+      "date": "2018",
+      "awarder": "Association for Computing Machiner (ACM)",
+      "url": "https://community.amstat.org/jointscsg-section/awards/john-m-chambers",
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+	{
+      "title": "Stanford Graduate Fellowship",
+      "date": "2016",
+      "awarder": "Stanford University",
+      "url": "https://vpge.stanford.edu/fellowships-funding/sgf",
     },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+	{
+      "title": "NSF Graduate Research Fellowship",
+      "date": "2009",
+      "awarder": "National Science Foundation (NSF)",
+      "url": "https://www.nsfgrfp.org",
     },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+	{
+	  "title": "Maryland Distinguished Scholarship",
+	  "date": "2005",
+	  "awarder": "Maryland Higher Education Commission"
+	},
+	{
+	  "title": "Intel Science Talent Search Semifinalist",
+	  "date": "2005",
+	  "awarder": "Society for Science"
+	},
+	{
+	  "title": "Siemens Westinghouse Science Competition Semifinalist",
+	  "date": "2004",
+	  "awarder": "Siemens Foundation"
+	}
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Cancer Therapy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Radiation Treatment Planning",
+        "Adaptive Radiation Therapy",
+        "Computational Oncology"
       ]
-    }
+    },
+	{
+	  "name": "Numerical Optimization",
+	  "icon": "fa-solid fa-tag",
+	  "keywords": [
+	    "Large-Scale Optimization",
+		"Robust Optimization",
+		"Distributed Algorithms",
+		"Control of Dynamical Systems"
+	  ]
+	},
+	{
+	  "name": "Machine Learning",
+	  "icon": "fa-solid fa-tag"
+	},
+	{
+	  "name": "Statistical Software",
+	  "icon": "fa-solid fa-tag"
+	}
   ],
-  "references": [
+  "languages": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "English",
+      "fluency": "Native",
+      "icon": ""
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Mandarin",
+      "fluency": "Conversational",
+      "icon": ""
     }
   ]
 }
