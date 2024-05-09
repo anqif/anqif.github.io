@@ -3,7 +3,7 @@
     "name": "Anqi Fu",
     "citizenship": "United States",
     "email": "anqif@alumni.stanford.edu",
-	"url": "https://anqif.github.io"
+    "url": "https://anqif.github.io"
   },
   "education": [
     {
@@ -12,33 +12,36 @@
       "studyType": "Ph.D in Electrical Engineering",
       "startDate": "2016",
       "endDate": "2021",
-	  "courses": ["Dissertation titled 'Convex Optimization Methods for Adaptive Radiation Therapy'.", "Committee members were Stephen Boyd (Ph.D adviser), Lei Xing, Balasubramanian Narasimhan, and John Duchi."]
+      "courses": [
+        "Dissertation titled 'Convex Optimization Methods for Adaptive Radiation Therapy'.",
+        "Committee members were Stephen Boyd (Ph.D adviser), Lei Xing, Balasubramanian Narasimhan, and John Duchi."
+      ]
     },
-	{
-	  "institution": "Stanford University, Stanford, CA",
-	  "studyType": "M.S. in Statistics",
-	  "startDate": "2012",
-	  "endDate": "2014"
-	},
-	{
-	  "institution": "Stanford Graduate School of Business, Stanford, CA",
-	  "area": "Economic Analysis and Policy",
-	  "studyType": "M.A. in Business Research",
-	  "startDate": "2009",
-	  "endDate": "2012"
-	},
-	{
-	  "institution": "University of Maryland, College Park, MD",
-	  "studyType": "B.S. in Electrical Engineering",
-	  "startDate": "2005",
-	  "endDate": "2009"
-	},
-	{
-	  "institution": "University of Maryland, College Park, MD",
-	  "studyType": "B.A. in Economics (Minor in Mathematics)",
-	  "startDate": "2005",
-	  "endDate": "2009"
-	}
+    {
+      "institution": "Stanford University, Stanford, CA",
+      "studyType": "M.S. in Statistics",
+      "startDate": "2012",
+      "endDate": "2014"
+    },
+    {
+      "institution": "Stanford Graduate School of Business, Stanford, CA",
+      "area": "Economic Analysis and Policy",
+      "studyType": "M.A. in Business Research",
+      "startDate": "2009",
+      "endDate": "2012"
+    },
+    {
+      "institution": "University of Maryland, College Park, MD",
+      "studyType": "B.S. in Electrical Engineering",
+      "startDate": "2005",
+      "endDate": "2009"
+    },
+    {
+      "institution": "University of Maryland, College Park, MD",
+      "studyType": "B.A. in Economics (Minor in Mathematics)",
+      "startDate": "2005",
+      "endDate": "2009"
+    }
   ],
   "work": [
     {
@@ -46,102 +49,102 @@
       "position": "Assistant Attending (Faculty)",
       "url": "https://www.mskcc.org/profile/anqi-fu",
       "startDate": "2022",
-	  "summary": "My research addresses problems in radiation treatment planning and radiobiological modeling using the tools of optimization. I design, develop, and implement efficient algorithms for large-scale, distributed optimization and machine learning with applications to IMRT, IMPT, VMAT, and other treatment modalities. I also create software/solvers for general convex programming and analysis."
+      "summary": "My research addresses problems in radiation treatment planning and radiobiological modeling using the tools of optimization. I design, develop, and implement efficient algorithms for large-scale, distributed optimization and machine learning with applications to IMRT, IMPT, VMAT, and other treatment modalities. I also create software/solvers for general convex programming and analysis."
     },
-	{
-	  "name": "Memorial Sloan Kettering, Department of Medical Physics",
-	  "position": "Postdoctoral Research Scholar",
-	  "url": "https://www.mskcc.org/departments/medical-physics"
-	  "startDate": "2021",
-	  "endDate": "2022",
-	  "summary": "Advised by Masoud Zarepisheh in the Department of Medical Physics. I conducted research on proton treatment planning and distributed optimization."
-	},
-	{
-	  "name": "Stanford School of Medicine",
-	  "position": "Life Science Research Professional",
-	  "url": "https://med.stanford.edu/xinglab.html",
-	  "startDate": "2016",
-	  "endDate": "2016",
-	  "summary": "Member of Lei Xing's lab in the Department of Radiation Oncology."
-	},
-	{
-	  "name": "H2O.ai, Mountain View, CA",
-	  "position": "Machine Learning Scientist",
-	  "url": "https://h2o.ai",
-	  "startDate": "2014",
-	  "endDate": "2016"
-	},
-	{
-	  "name": "Naval Research Laboratory (NRL), Power Electronics Branch",
-	  "position": "Engineering Technician",
-	  "url": "https://www.nrl.navy.mil",
-	  "startDate": "2008",
-	  "endDate": "2008"
-	}
+    {
+      "name": "Memorial Sloan Kettering, Department of Medical Physics",
+      "position": "Postdoctoral Research Scholar",
+      "url": "https://www.mskcc.org/departments/medical-physics",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Advised by Masoud Zarepisheh in the Department of Medical Physics. I conducted research on proton treatment planning and distributed optimization."
+    },
+    {
+      "name": "Stanford School of Medicine",
+      "position": "Life Science Research Professional",
+      "url": "https://med.stanford.edu/xinglab.html",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Member of Lei Xing's lab in the Department of Radiation Oncology."
+    },
+    {
+      "name": "H2O.ai, Mountain View, CA",
+      "position": "Machine Learning Scientist",
+      "url": "https://h2o.ai",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "name": "Naval Research Laboratory (NRL), Power Electronics Branch",
+      "position": "Engineering Technician",
+      "url": "https://www.nrl.navy.mil",
+      "startDate": "2008",
+      "endDate": "2008"
+    }
   ],
   "projects": [
-  	{
-	  "name": "AdaRad",
-	  "summary": "Python library for adaptive radiation therapy with nonlinear dynamics.",
-	  "startDate": "2020",
-	  "endDate": "2022",
-	  "url": "https://github.com/anqif/adarad"
-	},
-	{
-	  "name": "CVXR",
-	  "summary": "R package for disciplined convex modeling and optimization.",
-	  "startDate": "2015",
-	  "url": "https://cvxr.rbind.io"
-	},
+    {
+      "name": "AdaRad",
+      "summary": "Python library for adaptive radiation therapy with nonlinear dynamics.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "url": "https://github.com/anqif/adarad"
+    },
+    {
+      "name": "CVXR",
+      "summary": "R package for disciplined convex modeling and optimization.",
+      "startDate": "2015",
+      "url": "https://cvxr.rbind.io"
+    },
     {
       "name": "A2DR",
       "summary": "Python solver for distributed optimization using Anderson accelerated Douglas-Rachford splitting.",
       "startDate": "2018",
-	  "endDate": "2020",
+      "endDate": "2020",
       "url": "https://github.com/cvxgrp/a2dr"
     },
-	{
-	  "name": "ConRad",
-	  "summary": "Python library for radiation treatment planning with dose-volume constraints.",
-	  "startDate": "2016",
-	  "endDate": "2019",
-	  "url": "https://github.com/bungun/conrad"
-	}
+    {
+      "name": "ConRad",
+      "summary": "Python library for radiation treatment planning with dose-volume constraints.",
+      "startDate": "2016",
+      "endDate": "2019",
+      "url": "https://github.com/bungun/conrad"
+    }
   ],
   "awards": [
     {
       "title": "Chambers Statistical Software Award, Honorable Mention",
       "date": "2018",
       "awarder": "Association for Computing Machiner (ACM)",
-      "url": "https://community.amstat.org/jointscsg-section/awards/john-m-chambers",
+      "url": "https://community.amstat.org/jointscsg-section/awards/john-m-chambers"
     },
-	{
+    {
       "title": "Stanford Graduate Fellowship",
       "date": "2016",
       "awarder": "Stanford University",
-      "url": "https://vpge.stanford.edu/fellowships-funding/sgf",
+      "url": "https://vpge.stanford.edu/fellowships-funding/sgf"
     },
-	{
+    {
       "title": "NSF Graduate Research Fellowship",
       "date": "2009",
       "awarder": "National Science Foundation (NSF)",
-      "url": "https://www.nsfgrfp.org",
+      "url": "https://www.nsfgrfp.org"
     },
-	{
-	  "title": "Maryland Distinguished Scholarship",
-	  "date": "2005",
-	  "awarder": "Maryland Higher Education Commission"
-	},
-	{
-	  "title": "Intel Science Talent Search Semifinalist",
-	  "date": "2005",
-	  "awarder": "Society for Science"
-	},
-	{
-	  "title": "Siemens Westinghouse Science Competition Semifinalist",
-	  "date": "2004",
-	  "awarder": "Siemens Foundation"
-	}
+    {
+      "title": "Maryland Distinguished Scholarship",
+      "date": "2005",
+      "awarder": "Maryland Higher Education Commission"
+    },
+    {
+      "title": "Intel Science Talent Search Semifinalist",
+      "date": "2005",
+      "awarder": "Society for Science"
+    },
+    {
+      "title": "Siemens Westinghouse Science Competition Semifinalist",
+      "date": "2004",
+      "awarder": "Siemens Foundation"
+    }
   ],
   "interests": [
     {
@@ -153,24 +156,24 @@
         "Computational Oncology"
       ]
     },
-	{
-	  "name": "Numerical Optimization",
-	  "icon": "fa-solid fa-tag",
-	  "keywords": [
-	    "Large-Scale Optimization",
-		"Robust Optimization",
-		"Distributed Algorithms",
-		"Control of Dynamical Systems"
-	  ]
-	},
-	{
-	  "name": "Machine Learning",
-	  "icon": "fa-solid fa-tag"
-	},
-	{
-	  "name": "Statistical Software",
-	  "icon": "fa-solid fa-tag"
-	}
+    {
+      "name": "Numerical Optimization",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Large-Scale Optimization",
+        "Robust Optimization",
+        "Distributed Algorithms",
+        "Control of Dynamical Systems"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Statistical Software",
+      "icon": "fa-solid fa-tag"
+    }
   ],
   "languages": [
     {
