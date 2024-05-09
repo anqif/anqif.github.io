@@ -49,7 +49,7 @@
       "position": "Assistant Attending (Faculty)",
       "url": "https://www.mskcc.org/profile/anqi-fu",
       "startDate": "2022",
-	  "endDate": "NOW",
+      "endDate": "NOW",
       "summary": "My research addresses problems in radiation treatment planning and radiobiological modeling using the tools of optimization. I design, develop, and implement efficient algorithms for large-scale, distributed optimization and machine learning with applications to IMRT, IMPT, VMAT, and other treatment modalities. I also create software/solvers for general convex programming and analysis."
     },
     {
@@ -95,7 +95,7 @@
       "name": "CVXR",
       "summary": "R package for disciplined convex modeling and optimization.",
       "startDate": "2015",
-	  "endDate": "NOW",
+      "endDate": "NOW",
       "url": "https://cvxr.rbind.io"
     },
     {
