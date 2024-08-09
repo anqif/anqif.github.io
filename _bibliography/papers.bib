@@ -6,11 +6,15 @@
 	title = {Efficient Radiation Treatment Planning Based on Voxel Importance}, 
 	journal = {Physics in Medicine and Biology},
 	abbr = {PMB},
-	month = {July},
+	volume = {69},
+	number = {16},
+	pages = {165031},
+	month = {August},
 	year = {2024},
 	doi = {10.1088/1361-6560/ad68bd},
 	html = {https://iopscience.iop.org/article/10.1088/1361-6560/ad68bd},
-	abstract = {Objective: Radiation treatment planning involves optimization over a large number of voxels, many of which carry limited information about the clinical problem. We propose an approach to reduce the large optimization problem by only using a representative subset of informative voxels. This way, we drastically improve planning efficiency while maintaining the plan quality. Approach: Within an initial probing step, we pre-solve an easier optimization problem involving a simplified objective from which we derive an importance score per voxel. This importance score is then turned into a sampling distribution, which allows us to subsample a small set of informative voxels using importance sampling.  By solving a – now reduced – version of the original optimization problem using this subset, we effectively reduce the problem’s size and computational demands while accounting for regions where satisfactory dose deliveries are challenging. Main results: In contrast to other stochastic (sub-)sampling methods, our technique only requires a single probing and sampling step to define a reduced optimization problem. This problem can be efficiently solved using established solvers without the need of modifying or adapting them. Empirical experiments on open benchmark data highlight substantially reduced optimization times, up to 50 times faster than the original ones, for intensity-modulated radiation therapy (IMRT), all while upholding plan quality comparable to traditional methods. Significance: Our novel approach has the potential to significantly accelerate radiation treatment planning by addressing its inherent computational challenges. We reduce the treatment planning time by reducing the size of the optimization problem rather than modifying and improving the optimization method. Our efforts are thus complementary to many previous developments.}
+	pdf = {medphys/efficient_rtp.pdf},
+	abstract = {Objective. Radiation treatment planning (RTP) involves optimization over a large number of voxels, many of which carry limited information about the clinical problem. We propose an approach to reduce the large optimization problem by only using a representative subset of informative voxels. This way, we drastically improve planning efficiency while maintaining the plan quality. Approach. Within an initial probing step, we pre-solve an easier optimization problem involving a simplified objective from which we derive an importance score per voxel. This importance score is then turned into a sampling distribution, which allows us to subsample a small set of informative voxels using importance sampling. By solving a—now reduced—version of the original optimization problem using this subset, we effectively reduce the problem’s size and computational demands while accounting for regions where satisfactory dose deliveries are challenging. Main results. In contrast to other stochastic (sub-)sampling methods, our technique only requires a single probing and sampling step to define a reduced optimization problem. This problem can be efficiently solved using established solvers without the need of modifying or adapting them. Empirical experiments on open benchmark data highlight substantially reduced optimization times, up to 50 times faster than the original ones, for intensity-modulated radiation therapy, all while upholding plan quality comparable to traditional methods. Significance. Our novel approach has the potential to significantly accelerate RTP by addressing its inherent computational challenges. We reduce the treatment planning time by reducing the size of the optimization problem rather than modifying and improving the optimization method. Our efforts are thus complementary to many previous developments.}
 }
 
 @article{FuTaastiZarepisheh:2024,
@@ -29,7 +33,7 @@
 }
 
 @article{GouwFuDeasy:2024,
-	author = {Z. A. R. Gouw and J. Jeong and A. Rimner and N. Y. Lee and A. Jackson and A. Fu and J-J. Sonke and J. O. Deasy},
+	author = {Z. A. R. Gouw and J. Jeong and A. Rimner and N. Y. Lee and A. Jackson and A. Fu and J.-J. Sonke and J. O. Deasy},
 	title = {"Primer Shot" Fractionation with an Early Treatment Break is Theoretically Superior to Consecutive Weekday Fractionation Schemes for Early-Stage Non-Small Cell Lung Cancer},
 	journal = {Radiotherapy and Oncology},
 	abbr = {GREEN},
