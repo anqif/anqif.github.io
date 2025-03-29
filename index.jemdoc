@@ -1,0 +1,75 @@
+= Anqi Fu
+
+~~~
+{}{img_left}{profile.jpg}{Anqi Fu}{}{}{}
+Anqi Fu\n
+Assistant Attending (Faculty)\n
+[http://www.mskcc.org/research-areas/labs/joseph-deasy Department of Medical Physics]\n
+[http://www.mskcc.org/ Memorial Sloan Kettering Cancer Center]\n
+
+[CV.pdf Curriculum Vitae] | [https://www.linkedin.com/in/anqi-fu-2bb03013/ LinkedIn] | [https://scholar.google.com/citations?user=TlBuCg8AAAAJ&hl=en Google Scholar] | [https://github.com/anqif Github]
+~~~
+
+== About Me
+I completed a M.S. in Statistics and a Ph.D in Electrical Engineering at Stanford University with Profs. Stephen P. Boyd and Lei Xing. I then joined Memorial Sloan Kettering Cancer Center (MSKCC) as a postdoctoral research scholar, advised by Drs. Joseph O. Deasy and Masoud Zarepisheh. Currently, I am an Assistant Attending faculty member at MSKCC in the Department of Medical Physics, Computer Services division. Prior to my academic career, I worked as a machine learning scientist at [http://www.h2o.ai/ H2O.ai], developing algorithms and software for large-scale machine learning applications.
+
+== Contact
+anqif \[at\] alumni (dot) stanford (dot) edu
+
+Memorial Sloan Kettering Cancer Center\n
+321 East 61st Street\n
+New York, NY 10065\n
+
+== Education
+- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University], 2021
+- M.S., Statistics, [http://www.stanford.edu Stanford University], 2014
+- M.A., Business Research, [http://www.gsb.stanford.edu Stanford Graduate School of Business], 2012
+- B.S., Electrical Engineering, [http://www.umd.edu University of Maryland, College Park], 2009
+- B.A., Economics, [http://www.umd.edu University of Maryland, College Park], 2009
+
+== Research Interests
+- Radiation treatment planning
+- Adaptive radiation therapy
+- Large-scale optimization
+- Robust optimization
+- Machine learning
+
+== Publications
+- A. Fu, V. T. Taasti, M. Zarepisheh. [papers/medphys/robust_proton.pdf "Distributed and Scalable Optimization for Robust Proton Treatment Planning."] /Medical Physics/, July 2022, [https://doi.org/10.1002/mp.15897 doi:10.1002/mp.15897].
+- A. Fu, L. Xing, S. Boyd. [papers/adarad.pdf "Operator Splitting for Adaptive Radiation Therapy with Nonlinear Health Constraints."] /Optimization Methods and Software/, June 2022, [https://doi.org/10.1080/10556788.2022.2078824 doi:10.1080/10556788.2022.2078824].
+- A. Fu, S. Boyd, L. Xing, B. Narasimhan, J. Duchi. [http://purl.stanford.edu/yk503fd5318 "Convex Optimization Methods for Adaptive Radiation Therapy".] Ph.D thesis, Stanford University, June 2021.
+- A. Fu, J. Zhang, S. Boyd. [papers/a2dr.pdf "Anderson Accelerated Douglas-Rachford Splitting."] /SIAM Journal on Scientific Computing/, vol. 42 (6): A3560–A3583, November 2020. ([papers/supplements/a2dr_supplement.pdf Supplemental Materials])
+- A. Fu, B. Narasimhan, S. Boyd. [papers/cvxr.pdf "CVXR: An R Package for Disciplined Convex Optimization."] /Journal of Statistical Software/, vol. 94 (14): 1-34, August 2020.
+- A. Fu, B. Ungun, L. Xing, S. Boyd. [papers/conrad.pdf "A Convex Optimization Approach to Radiation Treatment Planning with Dose Constraints."] /Optimization and Engineering/, vol. 20 (1): 277-300, March 2019.
+- O.J. Glembocki, R.W. Rendell, D.A. Alexson, S.M. Prokes, A. Fu, M.A. Mastro. [papers/physics/PhysRevB.80.085416 "Dielectric-Substrate-Induced Surface-Enhanced Raman Scattering."] /Physical Review B/, vol. 80 (8): 085416, August 2009.
+- R.D. Shull, V. Provenzano, A.J. Shapiro, A. Fu, M.W. Lufaso, J. Karapetrova, G. Kletetschka, V. Mikula. [papers/physics/JApplPhys.99.08K908 "The Effect of Small Metal Additions (Co, Cu, Ga, Mn, Al, Bi, Sn) on the Magnetocaloric Properties of the Gd5Ge2Si2 Alloy."] /Journal of Applied Physics/, vol. 99 (8): 08K908, April 2006.
+- J.L. Her, K. Koyama, K. Watanabe, V. Provenzano, A. Fu, A.J. Shapiro, R.D. Shull. [papers/physics/MaterTrans.46.2011 "High-Magnetic Field X-ray Diffraction Studies on Gd5(Ge2-xFex)Si2 (x = 0.05 and 0.2)."] /Materials Transactions/, vol. 46 (9): 2011-2014, September 2005.
+
+== Presentations
+- AAPM 2022, "Distributed and Scalable Optimization for Robust Proton Treatment Planning." ([presentations/AAPM22_conference.pdf Slides])
+- ECSSC 2021, Invited Workshop, "Convex Optimization for Statistical and Machine Learning with CVXR." ([https://github.com/bnaras/cvxr_tutorial/tree/ecssc2021 Tutorial Book])
+- EURO 2021 (Athens), "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/EURO21_conference.pdf Slides])
+- Optimization for Machine Learning, CIRM 2020, "Anderson Accelerated Douglas-Rachford Splitting." ([presentations/CIRM_ML20_conference.pdf Slides])
+- useR! 2019, "CVXR: An R Package for Disciplined Convex Optimization." ([https://github.com/bnaras/cvxr_tutorial Tutorial Book])
+- useR! 2018, "Disciplined Convex Optimization with CVXR." ([presentations/useR18_conference.pdf Slides]) ([https://www.youtube.com/watch?v=MyglbtnmQ8A Video])
+- useR! 2016, "CVXR: An R Package for Modeling Convex Optimization Problems." ([presentations/useR16_conference.pdf Slides]) ([http://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/CVXR-An-R-Package-for-Modeling-Convex-Optimization-Problems Video])
+- H2O World 2015, "Generalized Low Rank Models." ([https://github.com/h2oai/h2o-tutorials/tree/h2o-world-2015-training/tutorials/glrm Code])
+
+== Software
+=== General Optimization
+- [https://github.com/cvxgrp/a2dr A2DR], a Python solver using Anderson accelerated Douglas-Rachford splitting. ([https://pypi.org/project/a2dr PyPi])
+- [http://cvxr.rbind.io CVXR], an R package for modeling convex optimization problems. ([https://CRAN.R-project.org/package=CVXR CRAN])
+- [http://www.h2o.ai H2O], a Java-based distributed statistical analysis software. I was the primary developer on GLRM (generalized low rank models) and the H2O R package. ([https://CRAN.R-project.org/package=h2o CRAN])
+
+=== Biomedical Applications
+- [https://github.com/anqif/adarad AdaRad], a Python library for adaptive radiation treatment planning over time.
+- [https://github.com/bungun/conrad ConRad], a Python library for radiation treatment planning with dose-volume constraints.
+
+== Teaching
+=== Instructor
+- [https://web.stanford.edu/class/ee364a/ EE364A: Convex Optimization I], Stanford University (Summer 2020).
+
+=== Course Assistant
+- [https://web.stanford.edu/class/ee364a/ EE364A: Convex Optimization I], Stanford University (Winter 2020).
+- [https://purl.stanford.edu/cp117nh3668 OIT268: Making Data Relevant], Stanford Graduate School of Business (Spring 2012).
+- [http://classweb.ece.umd.edu/enee114.S2007/ ENEE114: Programming Concepts for Engineers], University of Maryland, College Park (Autumn 2007-08).
