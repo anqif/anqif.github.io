@@ -1,7 +1,8 @@
 cv:
   name: Anqi Fu
+  headline: Professor
+  location: New York, NY
   email: anqif@alumni.stanford.edu
-  location: 522 1st Avenue, New York, NY 10016, USA
 
   sections:
     Education:
