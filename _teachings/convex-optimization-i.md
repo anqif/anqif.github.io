@@ -1,7 +1,7 @@
 ---
 layout: course
 title: EE364A Convex Optimization I
-description: Graduate course on convex optimization theory, algorithms, and applications.
+description: First part of a graduate sequence on convex optimization theory, algorithms, and applications.
 instructor: Anqi Fu
 year: 2020
 term: Summer
@@ -10,7 +10,8 @@ course_id: convex-optimization-i
 
 ## Course Overview
 
-This is the first part of a graduate sequence in convex optimization, covering theory, algorithms, and applications with a focus on problems in electrical engineering.
+This course concentrates on recognizing and solving convex optimization problems that arise in applications, particularly in electrical engineering.
+Selected topics: Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods. Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
 
 ## Textbooks and Slides
 
