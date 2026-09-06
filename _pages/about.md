@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Smilow Research Center, 9th Floor</p>
+    <p>Smilow Center, 9th Floor</p>
     <p>522 1st Avenue</p>
     <p>New York, NY 10016</p>
 
