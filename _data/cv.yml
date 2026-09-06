@@ -1,10 +1,7 @@
 cv:
   name: Anqi Fu
-  label: Research Assistant Professor
   email: anqif@alumni.stanford.edu
   location: New York, NY
-  image: ""
-  summary: ""
 
   address:
     street: 522 1st Avenue
@@ -59,7 +56,7 @@ cv:
         position: Research Assistant Professor
         location: New York, NY
         start_date: 2026
-        end_date: Present
+        end_date: present
 
       - company: Memorial Sloan-Kettering, Department of Medical Physics
         position: Assistant Attending (Faculty)
@@ -96,22 +93,32 @@ cv:
         end_date: 2008
 
     Awards:
-      - title: Chambers Statistical Software Award, Honorable Mention
+      - title: John M. Chambers Statistical Software Award, Honorable Mention
+        authors:
+          - "American Statistical Association"
         date: 2018
 
       - title: Stanford Graduate Fellowship
+        authors:
+          - "Stanford University"
         date: 2016
 
       - title: National Science Foundation (NSF) Graduate Research Fellowship
+        authors:
+          - "National Science Foundation"
         date: 2009
 
       - title: Maryland Distinguished Scholarship
+        authors:
+          - "Maryland Higher Education Commission"
         date: 2005
 
       - title: Intel Science Talent Search Semifinalist
+        authors: "Intel"
         date: 2005
 
       - title: Siemens Westinghouse Science Competition Semifinalist
+        authors: "Siemens Westinghouse"
         date: 2004
 
     Languages:
