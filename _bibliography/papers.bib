@@ -1,6 +1,23 @@
 ---
 ---
 
+@article{FuGouwDeasy:2026,
+	author = {A. Fu and Z. A. R. Gouw and J. Jeong and J. O. Deasy},
+	title = {Optimal Radiotherapy Dose Scheduling with Variable Fraction Sizes and Breaks via Sequential Mixed-Integer Convex Programming},
+	journal = {Physics and Imaging in Radiation Oncology},
+	abbr = {phiRO},
+	volume = {39},
+	number = {1},
+	pages = {101003},
+	month = {May},
+	year = {2026},
+	doi = {10.1016/j.phro.2026.101003},
+	html = {https://www.phiro.science/article/S2405-6316(26)00103-X/fulltext},
+	pdf = {medphys/opt_frac.pdf},
+	abstract = {Background and Purpose: Radiotherapy is typically delivered in consecutive equi-dose fractions, but research suggests a non-uniform dose schedule may produce a higher tumor control probability (TCP). We developed an optimization method that automatically constructs the best dose schedule with variable fraction sizes and treatment breaks based on a tumor dose–response model calibrated to head-and-neck squamous cell carcinoma, which captures the impact of cellular resource competition and hypoxia. Materials and Methods: We formulated the dose scheduling problem as a finite-horizon optimal control problem. Fraction size was constrained by an upper bound on the biologically effective dose to normal tissue, along with a daily dose limit. This problem is nonconvex, so we employed a heuristic called the convex-concave procedure to solve a sequence of mixed-integer convex approximations that converges to a good estimate of the solution. Results: The optimal schedules adhered to a pattern consisting of an initial “primer shot”, followed by a 1 week break, and concluding with six small equi-dose fractions and a final large fraction. The primer shot killed proliferating cells, freeing up resources so hypoxic cells could reoxygenate during the treatment break. These reoxygenated cells are more radiosensitive, therefore the schedule waited until all cells have reoxygenated before delivering its largest dose. In computational experiments, our schedule achieved a 12% higher TCP than the standard equi-dose weekday schedule. Conclusions: An optimization method was developed to construct non-uniform dose schedules based on a model of tumor dose–response in the presence of hypoxia, yielding significant improvements in TCP.},
+	selected = {true}
+}
+
 @article{MairFuSjolund:2024,
 	author = {S. Mair and A. Fu and J. Sjölund},
 	title = {Efficient Radiation Treatment Planning Based on Voxel Importance}, 
@@ -110,8 +127,7 @@
 	pdf = {optim/a2dr.pdf},
 	supp = {supp/a2dr_supplement.pdf},
 	code = {https://github.com/cvxgrp/a2dr},
-	abstract = {We consider the problem of nonsmooth convex optimization with linear equality constraints, where the objective function is only accessible through its proximal operator. This problem arises in many different fields such as statistical learning, computational imaging, telecommunications, and optimal control. To solve it, we propose an Anderson accelerated Douglas--Rachford splitting (A2DR) algorithm, which we show either globally converges or provides a certificate of infeasibility/unboundedness under very mild conditions. Applied to a block separable objective, A2DR partially decouples so that its steps may be carried out in parallel, yielding an algorithm that is fast and scalable to multiple processors. We describe an open-source implementation and demonstrate its performance on a wide range of examples.},
-	selected = {true}
+	abstract = {We consider the problem of nonsmooth convex optimization with linear equality constraints, where the objective function is only accessible through its proximal operator. This problem arises in many different fields such as statistical learning, computational imaging, telecommunications, and optimal control. To solve it, we propose an Anderson accelerated Douglas--Rachford splitting (A2DR) algorithm, which we show either globally converges or provides a certificate of infeasibility/unboundedness under very mild conditions. Applied to a block separable objective, A2DR partially decouples so that its steps may be carried out in parallel, yielding an algorithm that is fast and scalable to multiple processors. We describe an open-source implementation and demonstrate its performance on a wide range of examples.}
 }
 
 @article{FuNarasimhanBoyd:2020,
