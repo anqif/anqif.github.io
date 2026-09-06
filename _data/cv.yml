@@ -150,9 +150,3 @@ cv:
       - name: ConRad | https://github.com/bungun/conrad
         summary: Python library for radiation treatment planning with dose-volume constraints.
         date: 2019
-      - name: Some Project | [Google Play Store](https://example.com), [App Store]([Google Play Store](https://example.com))
-        location: Remote
-        date: 2021-09
-        highlights:
-          - Developed a web application with **React** and **Django**.
-          - Implemented a **RESTful API**
