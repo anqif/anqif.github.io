@@ -138,19 +138,23 @@ cv:
         keywords: "Statistical Learning, Statistical Modeling, Convolutional Neural Networks (Medical Imaging)"
 
     Projects:
-      - name: [A2DR](https://github.com/cvxgrp/a2dr)
+      - name: A2DR
+        location: "[GitHub](https://github.com/cvxgrp/a2dr)"
         summary: Python solver for distributed optimization using Anderson accelerated Douglas-Rachford splitting.
         start_date: 2020
         end_date: 2020
-      - name: [CVXR](https://cvxr.rbind.io)
+      - name: CVXR
+        location: "[Official Site](https://cvxr.rbind.io)"
         summary: R package for disciplined convex modeling and optimization.
         start_date: 2020
         end_date: 2020
-      - name: [AdaRad](https://github.com/anqif/adarad)
+      - name: AdaRad
+        location: "[GitHub](https://github.com/anqif/adarad)"
         summary: Python library for adaptive radiation therapy with nonlinear dynamics.
         start_date: 2022
         end_date: 2022
-      - name: [ConRad](https://github.com/bungun/conrad)
+      - name: ConRad
+        location: "[GitHub](https://github.com/bungun/conrad)"
         summary: Python library for radiation treatment planning with dose-volume constraints.
         start_date: 2019
         end_date: 2019
