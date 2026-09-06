@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was hired as an assistant attending at Memorial Sloan Kettering!
+I was hired as an assistant attending at Memorial Sloan-Kettering Cancer Center!
