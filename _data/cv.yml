@@ -137,7 +137,7 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Statistical Learning, Statistical Modeling, Convolutional Neural Networks (Medical Imaging)"
 
-    Projects:
+    Projects: 
       - title: A2DR
         authors:
           - "Anqi Fu"
