@@ -1,14 +1,7 @@
 cv:
   name: Anqi Fu
   email: anqif@alumni.stanford.edu
-  location: New York, NY
-
-  address:
-    street: 522 1st Avenue
-    city: New York
-    region: New York
-    postalCode: NY 10016
-    countryCode: US
+  location: 522 1st Avenue, New York, NY 10016, USA
 
   sections:
     Education:
