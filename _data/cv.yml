@@ -140,34 +140,34 @@ cv:
     Projects:
       - title: A2DR
         authors:
-          - Anqi Fu
-          - Junzi Zhang
-          - Stephen P. Boyd
+          - "Anqi Fu"
+          - "Junzi Zhang"
+          - "Stephen P. Boyd"
         url: https://github.com/cvxgrp/a2dr
         summary: Python solver for distributed optimization using Anderson accelerated Douglas-Rachford splitting.
         date: 2020
       - title: CVXR
         authors:
-          - Anqi Fu
-          - Balasubramanian Narasimhan
-          - Stephen P. Boyd
+          - "Anqi Fu"
+          - "Balasubramanian Narasimhan"
+          - "Stephen P. Boyd"
         url: https://cvxr.rbind.io
         summary: R package for disciplined convex modeling and optimization.
         date: 2020
       - title: AdaRad
         authors:
-          - Anqi Fu
-          - Lei Xing
-          - Stephen P. Boyd
+          - "Anqi Fu"
+          - "Lei Xing"
+          - "Stephen P. Boyd"
         url: https://github.com/anqif/adarad
         summary: Python library for adaptive radiation therapy with nonlinear dynamics.
         date: 2022
       - title: ConRad
         authors:
-          - Anqi Fu
-          - Baris Ungun
-          - Lei Xing
-          - Stephen P. Boyd
+          - "Anqi Fu"
+          - "Baris Ungun"
+          - "Lei Xing"
+          - "Stephen P. Boyd"
         url: https://github.com/bungun/conrad
         summary: Python library for radiation treatment planning with dose-volume constraints.
         date: 2019
