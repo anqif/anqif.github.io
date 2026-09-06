@@ -114,11 +114,13 @@ cv:
         date: 2005
 
       - title: Intel Science Talent Search Semifinalist
-        authors: "Intel"
+        authors: 
+          - "Intel"
         date: 2005
 
       - title: Siemens Westinghouse Science Competition Semifinalist
-        authors: "Siemens Westinghouse"
+        authors: 
+          - "Siemens Westinghouse"
         date: 2004
 
     Languages:
