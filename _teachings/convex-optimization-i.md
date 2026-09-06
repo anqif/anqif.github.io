@@ -1,12 +1,11 @@
 ---
 layout: course
-title: EE364A: Convex Optimization I
+title: EE364A Convex Optimization I
 description: Graduate course on convex optimization theory, algorithms, and applications.
 instructor: Anqi Fu
 year: 2020
 term: Summer
 course_id: convex-optimization-i
-
 ---
 
 ## Course Overview
