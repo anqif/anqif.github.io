@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: true
 nav_order: 6
 cv_pdf: /assets/pdf/anqif_CV.pdf # you can also use external links here
