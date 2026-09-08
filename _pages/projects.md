@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-<!-- description: A growing collection of your cool projects. -->
+description: Current and past research projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [radiotherapy, optimization]
 horizontal: false
 ---
