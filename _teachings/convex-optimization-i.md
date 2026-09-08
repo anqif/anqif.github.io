@@ -5,7 +5,7 @@ description: First part of a graduate sequence on convex optimization theory, al
 instructor: Anqi Fu
 year: 2020
 term: Summer
-course_id: convex-optimization-i
+course_id: ee364a
 ---
 
 ## Course Overview
@@ -16,7 +16,7 @@ Selected topics: Convex sets, functions, and optimization problems. Basics of co
 ## Textbooks and Slides
 
 - [Lecture Slides](https://web.stanford.edu/class/ee364a/lectures.html)
-- ["Convex Optimization"](https://stanford.edu/~boyd/cvxbook) by Stephen P. Boyd
+- [Convex Optimization](https://stanford.edu/~boyd/cvxbook) by Stephen P. Boyd
 
 ## Past Offerings
 
